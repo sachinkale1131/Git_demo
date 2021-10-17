@@ -1,1 +1,9 @@
-
+git status
+git add .
+git status
+git commit -m "Exercicios"
+git push origin main 
+git clone https://github.com/analivia1709/ProjetoIntegrador.git
+git init 
+git status 
+git add .
